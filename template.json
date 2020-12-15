@@ -15,11 +15,6 @@
         "mkdir /home/ubuntu/node-app",
         "chown ubuntu:ubuntu /home/ubuntu/node-app"
       ]
-    },
-    {
-      "type": "file",
-      "source": ".",
-      "destination": "/home/ubuntu/node-app/"
     }
   ],
   "builders": [
